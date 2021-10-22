@@ -1,6 +1,6 @@
 # Fine_Tune_BERT_for_Text_Classification
 
-In this project I will fine-tune a BERT model for text classification using TensorFlow and TF-Hub.
+In this project I will fine-tune a BERT model to classify Quora Insincere Questions using TensorFlow and TF-Hub.
 
 - Build TensorFlow Input Pipelines for Text Data with the tf.data API
 - Tokenize and Preprocess Text for BERT
